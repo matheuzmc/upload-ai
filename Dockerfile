@@ -6,8 +6,6 @@ COPY . .
 
 WORKDIR /home/node/app/upload-ai-web
 
-RUN npm install -g pnpm
-
-RUN pnpm install
+RUN npm install
 
 USER node
