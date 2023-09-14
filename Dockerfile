@@ -4,7 +4,7 @@ WORKDIR /home/node/app
 
 COPY . .
 
-WORKDIR /home/node/app/upload-ai-web
+WORKDIR /home/node/app/
 
 RUN npm install
 
