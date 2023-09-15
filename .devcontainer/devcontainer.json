@@ -52,7 +52,9 @@
         "csstools.postcss",
         "johnpapa.vscode-peacock",
         "miguelsolorio.fluent-icons",
-        "wallabyjs.quokka-vscode"
+        "wallabyjs.quokka-vscode",
+        "bierner.emojisense",
+        "heybourn.headwind"
       ]
     }
   },
