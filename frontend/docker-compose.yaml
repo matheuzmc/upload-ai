@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  
+  frontend:
+    build: ./frontend/
+    container_name: frontend
+    volumes:
+      - ./frontend:/home/node/app

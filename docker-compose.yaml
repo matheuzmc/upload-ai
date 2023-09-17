@@ -1,9 +1,0 @@
-version: '3'
-
-services:
-  
-  upload_ai:
-    build: .
-    container_name: upload_ai
-    volumes:
-      - .:/home/node/app
