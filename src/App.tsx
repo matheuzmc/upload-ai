@@ -127,7 +127,7 @@ export function App() {
 
             <Button type="submit" className="w-full">
               Executar
-              <Wand2 className="w-2 h-2" />
+              <Wand2 className="w-4 h-4 ml-2" />
             </Button>
           </form>
         </aside>
