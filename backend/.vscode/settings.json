@@ -1,4 +1,5 @@
 {
+    "peacock.remoteColor": "#e0234e",
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#e65072",
         "activityBar.background": "#e65072",
@@ -18,5 +19,7 @@
         "titleBar.inactiveBackground": "#e0234e99",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.remoteColor": "#e0234e"
+    "[prisma]": {
+        "editor.formatOnSave": true
+    }
 }
