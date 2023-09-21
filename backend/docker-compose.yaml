@@ -6,4 +6,4 @@ services:
     build: .
     container_name: backend
     volumes:
-      - ./backend:/home/node/app
+      - ..:/home/node/app
