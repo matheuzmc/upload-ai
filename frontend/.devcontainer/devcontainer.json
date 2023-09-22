@@ -54,7 +54,8 @@
         "miguelsolorio.fluent-icons",
         "wallabyjs.quokka-vscode",
         "bierner.emojisense",
-        "heybourn.headwind"
+        "heybourn.headwind",
+        "fernandakipper.reactcodesnippets"
       ]
     }
   },
